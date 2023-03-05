@@ -16,10 +16,9 @@ h1, h2, h3 {
 	margin: 0;
 	padding: 0;
 	font-family: 'Arial', sans-serif;
-	font-size: 10pt;
 	text-transform: uppercase;
 	font-weight: 200;
-	color: #ffffff;
+	color: #000000;
 }
 
 h2 {
@@ -116,11 +115,7 @@ hr {
 #header-wrapper
 {
 	background: url(images/photo.jpg) no-repeat center center;
-	/*background-size: cover;*/
-	background-size: 50% 50%;
-	background-size: 3em 25%;
-	background-size: auto 6px;
-	background-size: auto auto;
+	background-size: 50%;	
 }
 
 #header {
